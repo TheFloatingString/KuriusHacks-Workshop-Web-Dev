@@ -1,6 +1,8 @@
 # KuriusHacks-Workshop-Web-Dev
 
-This website allows anyone to discover the eye color of Star Wars characters. 
+This is the HTML, CSS and JavaScript code for the 2020 KuriusHacks workshop on web development.
+
+The goal of this website: discover the eye color of Star Wars characters! 
 
 To run this code:
 
